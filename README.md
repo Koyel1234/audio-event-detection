@@ -1,1 +1,2 @@
 # audio-event-detection
+This repo contains python code and some excel files for Audio Event Detection. I am not attaching here the UrbanSound8K dataset (which has been used in the project) due to some permission issue. You can find UrbanSound8K dataset simply by googling its name. You need to fill up a form available on the same place from where you are going to download the dataset before getting the dataset.
